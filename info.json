@@ -1,8 +1,12 @@
 {
-  "name": "NoCraftingTime",
-  "version": "1.0",
+  "name": "NoCraftingTime_2",
+  "version": "2.0.0",
   "factorio_version": "2.0",
   "title": "No Crafting Time",
   "author": "AudricSan",
-  "description": "Everything is done instantly using little electrical energy."
+  "description": "Everything is done instantly using little electrical energy.",
+  "homepage": "https://github.com/AudricSan/No-crafting-time",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
 }
